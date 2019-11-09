@@ -1,0 +1,35 @@
+{
+    muver: {
+        muverAbout: null,
+        muverBanner: null,
+        muverBirthday: null,
+        muverFacebook: null,
+        muverGender: null,
+        muverInstagram: null,
+        muverLineOfWork: null,
+        muverLivingIn: null,
+        muverMotter: null,
+        muverPinterest: null,
+        muverRank: null,
+        muverSnapChat: null,
+        muverTwitter: null,
+    },
+    home: {
+        homeFilter: emptyArray,
+        homeFavorites: weak,
+    },
+    upcomingTrip: {
+        null
+    },
+    lastTrip: {
+        null
+    },
+    eachTripCost: null,
+    tripDescription: null,
+    tripCompaions: null,
+    tripStartDate: null
+    tripEndDate: null,
+    Influencers: null
+    and others.......
+    
+}
